@@ -14,7 +14,7 @@ I am a Systems Engineering student and a Certified Senior Technician in Industri
 - **Methodologies:** AI-Assisted Development, Rapid Prototyping.
 
 ### 📬 Connect with me
-- 💼 **LinkedIn:** [Profile Link](Coming Soon)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/miguel-angel-meneses-solorzano-416642414/
 - 📧 **Email:** miguel.a.meneses.s@gmail.com
 - 📍 **Location:** Tarija, Bolivia 🇧🇴
 
@@ -36,6 +36,6 @@ Soy estudiante de Ingeniería en Sistemas y Técnico Superior Certificado en Ele
 - **Metodologías:** Desarrollo guiado por IA, Prototipado rápido.
 
 ### 📬 Contacto
-- 💼 **LinkedIn:** [Enlace a mi Perfil](Próximamente)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/miguel-angel-meneses-solorzano-416642414/
 - 📧 **Email:** miguel.a.meneses.s@gmail.com
 - 📍 **Ubicación:** Tarija, Bolivia 🇧🇴
